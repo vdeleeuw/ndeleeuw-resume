@@ -1,0 +1,15 @@
+<!-- a11y disabled because its a simple modal -->
+<!-- eslint-disable @angular-eslint/template/interactive-supports-focus -->
+
+<div class="card__group card__group--hover">
+  <a (click)="openImg()" href="javascript:;">
+    <img class="card__image" src="{{ src }}" alt="{{ alt }}" />
+    <p class="card__text">{{ alt }}</p>
+  </a>
+</div>
+
+@if (isFullScreen) {
+  <a class="card__popover-overlay" (click)="closeImg()" (keyup)="closeImg()">
+    <img class="card__image--popover" src="{{ src }}" alt="{{ alt }}" />
+  </a>
+}

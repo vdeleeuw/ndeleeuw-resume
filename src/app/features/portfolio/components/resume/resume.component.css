@@ -1,0 +1,56 @@
+.resume__group {
+  background-color: var(--color-background-secondary);
+  color: var(--color-text-secondary);
+  padding-bottom: 0.5rem;
+}
+
+.resume__title {
+  font-family: var(--font-secondary);
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.resume__full {
+  margin: 2rem;
+}
+
+.resume__content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3rem;
+}
+
+.resume__company {
+  margin-bottom: 0;
+  color: var(--color-text-tertiary);
+}
+
+.resume__text {
+  margin-top: 0.8rem;
+  color: var(--color-text-secondary);
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  color: var(--color-text-tertiary);
+  padding-bottom: 0.15rem;
+  border-bottom: 0.05rem solid currentcolor;
+  text-decoration: none;
+  &:hover {
+    color: var(--color-text-secondary);
+  }
+}
+
+@media screen and (min-width: 45rem) {
+  .resume__content {
+    flex-direction: row;
+  }
+
+  .resume__formation {
+    margin-left: 8rem;
+  }
+}

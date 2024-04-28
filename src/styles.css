@@ -1,1 +1,35 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  /* colors */
+  --color-text-primary: #313131;
+  --color-text-secondary: #919191;
+  --color-text-tertiary: #ececec;
+
+  --color-background-primary: #e6e5e3;
+  --color-background-secondary: #232323;
+
+  /* fonts */
+  --font-primary: 'Lato';
+  --font-secondary: 'Playfair Display';
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background-primary);
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  font-family: var(--font-primary);
+}
+
+/* fonts imports */
+@font-face {
+  font-family: 'Lato';
+  src: url('assets/fonts/Lato/Lato-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('assets/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf');
+}

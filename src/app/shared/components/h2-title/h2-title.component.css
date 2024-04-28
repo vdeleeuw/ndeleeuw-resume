@@ -1,0 +1,10 @@
+.h2__title {
+  display: inline-block;
+  font-size: 2rem;
+  font-family: var(--font-secondary);
+
+  padding-bottom: 0.3rem;
+  border-bottom: 0.2rem solid currentcolor;
+  border-image: linear-gradient(to right, currentcolor 40%, transparent 40%)
+    100% 1;
+}

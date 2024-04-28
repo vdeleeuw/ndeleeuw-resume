@@ -1,0 +1,13 @@
+footer {
+  padding: 3rem;
+  color: var(--color-text-secondary);
+  background-color: var(--color-background-secondary);
+}
+
+.footer__maker {
+  text-align: center;
+}
+
+.footer__link {
+  color: var(--color-text-secondary);
+}

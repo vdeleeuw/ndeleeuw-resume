@@ -1,0 +1,22 @@
+.contact__group {
+  margin: 2rem;
+}
+
+.contact__content {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.contact__mail {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+
+  span {
+    display: none;
+  }
+}
+
+.contact__type {
+  margin-bottom: 0;
+}
