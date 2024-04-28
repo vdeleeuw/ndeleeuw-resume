@@ -20,12 +20,19 @@
 }
 
 .presentation__quote {
-  font-family: var(--font-secondary);
-  font-size: 2rem;
+  font-family: var(--font-quote);
+  font-size: 3rem;
+  text-transform: uppercase;
   margin-top: 0;
 }
 
 .prensetation__icon {
   font-family: var(--font-secondary);
   font-size: 20rem;
+}
+
+@media screen and (min-width: 40rem) {
+  .presentation__group {
+    margin: 5rem;
+  }
 }

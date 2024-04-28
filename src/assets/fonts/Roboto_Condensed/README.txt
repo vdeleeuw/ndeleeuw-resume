@@ -1,30 +1,36 @@
-Playfair Display Variable Font
+Roboto Condensed Variable Font
 ==============================
 
-This download contains Playfair Display as both variable fonts and static fonts.
+This download contains Roboto Condensed as both variable fonts and static fonts.
 
-Playfair Display is a variable font with this axis:
+Roboto Condensed is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf
-  Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf
+  Roboto_Condensed/RobotoCondensed-VariableFont_wght.ttf
+  Roboto_Condensed/RobotoCondensed-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Playfair Display:
-  Playfair_Display/static/PlayfairDisplay-Regular.ttf
-  Playfair_Display/static/PlayfairDisplay-Medium.ttf
-  Playfair_Display/static/PlayfairDisplay-SemiBold.ttf
-  Playfair_Display/static/PlayfairDisplay-Bold.ttf
-  Playfair_Display/static/PlayfairDisplay-ExtraBold.ttf
-  Playfair_Display/static/PlayfairDisplay-Black.ttf
-  Playfair_Display/static/PlayfairDisplay-Italic.ttf
-  Playfair_Display/static/PlayfairDisplay-MediumItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-SemiBoldItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-BoldItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-ExtraBoldItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-BlackItalic.ttf
+in those cases you can use the static font files for Roboto Condensed:
+  Roboto_Condensed/static/RobotoCondensed-Thin.ttf
+  Roboto_Condensed/static/RobotoCondensed-ExtraLight.ttf
+  Roboto_Condensed/static/RobotoCondensed-Light.ttf
+  Roboto_Condensed/static/RobotoCondensed-Regular.ttf
+  Roboto_Condensed/static/RobotoCondensed-Medium.ttf
+  Roboto_Condensed/static/RobotoCondensed-SemiBold.ttf
+  Roboto_Condensed/static/RobotoCondensed-Bold.ttf
+  Roboto_Condensed/static/RobotoCondensed-ExtraBold.ttf
+  Roboto_Condensed/static/RobotoCondensed-Black.ttf
+  Roboto_Condensed/static/RobotoCondensed-ThinItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-ExtraLightItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-LightItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-Italic.ttf
+  Roboto_Condensed/static/RobotoCondensed-MediumItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-SemiBoldItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-BoldItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-ExtraBoldItalic.ttf
+  Roboto_Condensed/static/RobotoCondensed-BlackItalic.ttf
 
 Get started
 -----------
