@@ -23,6 +23,7 @@
 .resume__company {
   margin-bottom: 0;
   color: var(--color-text-tertiary);
+  line-height: 1.5rem;
 }
 
 .resume__text {
