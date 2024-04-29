@@ -4,4 +4,5 @@
 
 .about__text {
   text-align: justify;
+  max-width: 50rem;
 }
