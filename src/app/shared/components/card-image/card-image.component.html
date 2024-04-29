@@ -3,7 +3,7 @@
 <!-- eslint-disable @angular-eslint/template/interactive-supports-focus -->
 <div class="card__group card__group--hover" (click)="openImg()">
   <img class="card__image" src="{{ src }}" alt="{{ alt }}" />
-  <p class="card__text">{{ alt }}</p>
+  <p class="card__text">{{ legend }}</p>
 </div>
 
 @if (isFullScreen) {
